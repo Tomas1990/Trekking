@@ -1,0 +1,25 @@
+.section-4{
+    background: #aa9b77;
+}
+
+.about-us{
+    background: url("../img/about-us.png") top center no-repeat;
+    margin-top: 77px;
+}
+
+.about-us h4{
+    text-transform: uppercase;
+    color: #837659;
+    font-size: 20px;
+    margin: 0;
+    position: relative;
+    top: -10px;
+}
+
+.about-us p{
+    color: #424242;
+    font-size: 16px;
+    line-height: 24px;
+    padding-top: 65px;
+    padding-bottom: 148px;
+}

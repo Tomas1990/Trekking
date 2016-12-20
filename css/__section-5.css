@@ -1,0 +1,27 @@
+.section-5{
+    background: #535253;
+}
+
+.twit{
+    padding-left: 15px;
+}
+
+.twit span{
+    display:inline-block;
+    width:29px;
+    height:24px;
+    vertical-align:middle;
+    padding: 24px 0 24px 0;
+    background: url("../img/twitter-sprite.png") left no-repeat;
+    cursor:pointer;
+}
+
+.twit span:hover{
+    background: url("../img/twitter-sprite.png") right no-repeat;
+}
+
+.twitter-text{
+    padding-left: 20px;
+    display:inline-block;
+    font-size: 16px;
+}

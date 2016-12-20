@@ -1,0 +1,40 @@
+.section-2{
+    background: #f5f6f7;
+}
+
+.section-2 .filter{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.section-2 .filter input{
+    display: inline-block;
+}
+
+.section-2 .filter label{
+    padding-left: 18px;
+    padding-right: 10px;
+    font-size: 18px;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.section-2 .all-prod a{
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #aa9b77;
+    padding: 22px 34px;
+    border-radius: 5px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+}
+
+.section-2 .all-prod a:hover{
+    background: #84744d;
+    text-decoration: none;
+}
+
+.section-2 .all-prod a:focus {
+    text-decoration: none;
+}

@@ -1,0 +1,47 @@
+.my-navbar{
+    background: none;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.my-navbar .nav-li{
+    font-size: 18px;
+    color: #fff !important;
+    text-align: right;
+}
+
+.my-navbar .nav-li:hover{
+    color: #aa9b77 !important;
+}
+
+.my-navbar li a img:hover{
+    opacity: 0.5;
+}
+
+.my-navbar .navbar-brand img:hover{
+    opacity: 0.5;
+}
+
+.navbar-collapse{
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-color: transparent !important;
+}
+
+.my-button{
+    border-color: transparent !important;
+}
+
+.my-button:hover{
+    background: none !important;
+    opacity: 0.5;
+}
+
+.my-button:focus{
+    background: none !important;
+}
+
+.my-bar{
+    background-color: #fff !important;
+}

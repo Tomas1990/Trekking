@@ -1,0 +1,41 @@
+#owl-demo .item{
+    margin: 10px;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#owl-demo-2 .item{
+    margin: 10px;
+}
+#owl-demo-2 .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+    background: none;
+    color: #aa9b77;
+}
+
+.owl-prev{
+    position: absolute;
+    top: 10%;
+    left: 94%;
+}
+
+.owl-next{
+    position: absolute;
+    top: 10%;
+    left: 96%;
+}
+
+.owl-theme .owl-controls .owl-page span{
+    color: #aa9b77 !important;
+    background: none;
+    font-size: 16px;
+    font-family: "Quicksand Bold";
+}

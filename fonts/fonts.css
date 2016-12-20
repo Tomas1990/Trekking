@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Quicksand Bold";
+    src: url("quicksand_bold.otf");
+}
+@font-face {
+    font-family: "Quicksand Book";
+    src: url("quicksand_book.otf");
+}
+
+@font-face {
+    font-family: "Glyphicons";
+    src: url("glyphicons-halflings-regular.svg");
+    src: url("glyphicons-halflings-regular.eot");
+    src: url("glyphicons-halflings-regular.ttf");
+    src: url("glyphicons-halflings-regular.woff");
+    src: url("glyphicons-halflings-regular.woff2");
+}

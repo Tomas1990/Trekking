@@ -1,0 +1,29 @@
+.section-1{
+    background: url(../img/background-1.jpg) top center no-repeat;
+    background-size: cover;
+}
+
+.section-1 h1{
+    margin: 0;
+    padding-top: 225px;
+    font-size: 60px;
+    color: #fff;
+}
+
+.section-1 p{
+    font-family: "Quicksand Book";
+    font-size: 20px;
+    color: #fff;
+}
+
+.section-1 .down{
+    padding-top: 280px;
+    padding-bottom: 48px;
+    margin: 0 48%;
+    font-size: 35px;
+    color: #fff;
+}
+
+.section-1 .down:hover{
+    color: #aa9b77;
+}

@@ -1,0 +1,49 @@
+#men{
+    display: none;
+}
+
+#men + label[for="men"] span{
+    display:inline-block;
+    width:25px;
+    height:24px;
+    vertical-align:middle;
+    margin: 0 18px 5px 0;
+    background:url(../img/checkbox-sprite.png) left no-repeat;
+    cursor:pointer;
+}
+
+#men:checked + label[for="men"] span{
+    background:url(../img/checkbox-sprite.png) center no-repeat;
+}
+
+#women{
+    display: none;
+}
+
+#women + label[for="women"] span{
+    display:inline-block;
+    width:25px;
+    height:24px;
+    vertical-align:middle;
+    margin: 0 18px 5px 0;
+    background:url(../img/checkbox-sprite.png) left no-repeat;
+    cursor:pointer;
+}
+
+#women:checked + label[for="women"] span{
+    background:url(../img/checkbox-sprite.png) center no-repeat;
+}
+
+#children{
+    display: none;
+}
+
+#children + label[for="children"] span{
+    display:inline-block;
+    width:25px;
+    height:24px;
+    vertical-align:middle;
+    margin: 0 18px 5px 0;
+    background:url(../img/checkbox-sprite.png) right no-repeat;
+    cursor:pointer;
+}
